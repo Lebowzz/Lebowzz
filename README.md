@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ramy
 #### Design and Development
-![Design and Development]![image](https://github.com/user-attachments/assets/664944d9-634b-450e-8680-4334cc7d3e98)
+![Design and Development](https://github.com/user-attachments/assets/664944d9-634b-450e-8680-4334cc7d3e98)
 
 
 I'm Ramy. I do design and development. I'm all about doing things that are relevant and make human life simpler using technology. I also enjoy developing cool stuff in my free time as well as designing friendly interfaces.
