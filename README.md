@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Ramy
 #### Design and Development
-![Design and Development](https://media.licdn.com/dms/image/v2/D4E16AQFAjASBFZ92Ew/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714237965126?e=1736985600&v=beta&t=2v3aw_Vjct16b_DP7_R9U69iltpDhPdFrZZUMlQ6i3Y)
+![Design and Development]![image](https://github.com/user-attachments/assets/664944d9-634b-450e-8680-4334cc7d3e98)
+
 
 I'm Ramy. I do design and development. I'm all about doing things that are relevant and make human life simpler using technology. I also enjoy developing cool stuff in my free time as well as designing friendly interfaces.
 
