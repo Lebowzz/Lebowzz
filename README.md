@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/user-attachments/assets/664944d9-634b-450e-8680-4334cc7d3e98)
+![Design and Development](https://github.com/Lebowzz/Lebowzz/blob/main/banner.png)
 
 ### Hi there 👋, my name is Ramy
 #### Design and Development
