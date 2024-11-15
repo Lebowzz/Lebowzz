@@ -6,7 +6,7 @@ Hey there! I'm Ramy a software developer and computer science student at USJ. I'
 ## Skills & Experiences: 
 * 💻 HTML, CSS, JS
 * ⚛ REACT, Express, Node
-* ⌨ .NET/C# | C++ | Python | Kotlin
+* ⌨ .NET framework/C# | C++ | Python | Kotlin
 * 💽 PostgreSQL, MSSQL, MongoDB
 * 🐋 Docker
 
