@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/Lebowzz/Lebowzz/blob/main/banner.png)
 
 # Ramy Badran
-I'm Ramy. I do design and development. I'm all about doing things that are relevant and make human life simpler using technology. I also enjoy developing cool stuff in my free time as well as designing friendly interfaces.
+Hey there! I'm Ramy a software developer and computer science student at USJ. I'm all about doing things that are innovative and using technology to make human life. I'm currently working as a freelancer taking on interesting projects where I'm taking care of the architecure, design and development of softwares. I also like to practice my hobbies some of which are: 🎾 padel, ✍️ drawing and 🏂 snowboarding which i recently started.
 
 ## Skills & Experiences: 
 * 💻 HTML, CSS, JS
