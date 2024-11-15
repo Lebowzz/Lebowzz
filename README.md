@@ -4,9 +4,11 @@
 I'm Ramy. I do design and development. I'm all about doing things that are relevant and make human life simpler using technology. I also enjoy developing cool stuff in my free time as well as designing friendly interfaces.
 
 ## Skills & Experiences: 
-* ⚛ REACT
 * 💻 HTML, CSS, JS
-* ⌨ C# / C++/ Kotlin 
+* ⚛ REACT, Express, Node
+* ⌨ .NET/C# | C++ | Python | Kotlin
+* 💽 PostgreSQL, MSSQL, MongoDB
+* 🐋 Docker
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lebowzz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ramy-badran/)  
