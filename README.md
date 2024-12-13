@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/Lebowzz/Lebowzz/blob/main/banner.png)
 
 # Ramy Badran
-Hey there! I'm Ramy a software developer and computer science student at USJ. I'm all about doing things that are innovative and using technology to make human life. I'm currently working as a freelancer taking on interesting projects. I also like to practice my hobbies some of which are: 🎾 padel, ✍️ drawing and 🏂 snowboarding which i recently started.
+Hey there! I'm Ramy a software developer and computer science student at USJ. I'm all about doing things that are innovative and using technology to make human life easier. I'm currently working as a freelancer taking on interesting projects. I also like to practice my hobbies some of which are: 🎾 padel, ✍️ drawing and 🏂 snowboarding which i recently started.
 
 ## Skills & Experiences: 
 * 💻 HTML, CSS, JS
